@@ -25,3 +25,4 @@ select min(totalcharges) from telco_churna
 select max(totalcharges) from telco_churna
 
 select avg(totalcharges) from telco_churna
+
